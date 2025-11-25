@@ -1,5 +1,10 @@
 # 🔍 Algolia Node.js MCP
 
+> 🚀 Hosted MCP Now Available
+> We’re excited to announce that a Hosted MCP is now available! This makes it easier than ever to connect your external data and APIs to ChatGPT — no setup or hosting required.
+>
+> 👉 Learn more and get started in [our documentation](https://www.algolia.com/doc/guides/algolia-ai/mcp-server/).
+
 <p align="center">
   <a href="#-quick-start">Quick Start</a> •
   <a href="#-features">Features</a> •
